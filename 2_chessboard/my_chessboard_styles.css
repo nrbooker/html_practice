@@ -1,3 +1,27 @@
+body {
+	background-image: url('grey.png');
+}
+.board {
+	border: thick solid;
+	border-color: teal;
+	margin: 40px auto;
+}
+.square {
+	color: orange;
+	font-size: 50px;
+	width: 80px;
+	text-align: center;
+	height: 80px;
+	text-shadow: 2px 2px 3px black;
+
+}
+
+.dark_square {
+	color: orange;
+	background-color: teal;
+}
+
+
 /*
 
 Some references you may find useful:
